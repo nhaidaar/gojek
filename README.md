@@ -46,10 +46,10 @@ pkg install python
 pkg install git
 ```
 ```
-git clone https://github.com/tahaluindo/Gofood-Tools.git
+git clone https://github.com/nhaidaar/gojek
 ```
 ```
-cd Gofood-Tools
+cd gojek
 ```
 ```
 pip install validators
@@ -67,7 +67,7 @@ python main.py
 ###  🌷 Installer Version PHP Script
 
 ```
-cd Gofood-Tools
+cd gojek
 ```
 
 ```
