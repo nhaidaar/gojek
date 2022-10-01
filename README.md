@@ -1,4 +1,4 @@
-# Gofood-Tools
+# Gojek
 
 <hr>
 </pre>
@@ -11,7 +11,7 @@ Script Bot Registrasi Gojek, Pasang PIN dan Cek Voucher menggunakan Python yang 
 <p> Edit Di File data.txt</p>
 
 ```
-292821
+112233
 ```
 
 ## 🔥 Fitur Script
@@ -27,12 +27,6 @@ Script Bot Registrasi Gojek, Pasang PIN dan Cek Voucher menggunakan Python yang 
 
 
 ## ✨ Install Script
-
-### 🎲 Bahasa yang Dipakai
-<p>
-    <a href="https://github.com/tahaluindo"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> Dan
-<a href="https://github.com/tahaluindo"><img alt="Python" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white"></a>
-</p>
 
 
 ### ⚙️ Instalasi Termux - Android
@@ -87,8 +81,3 @@ php run.php
 ### Keterangan PHP
 
 <center>Opsinya Harus Login Dulu</center>
-
-## ⚠️ WARNING
-Check Voucher terkadang Error, atau terdeteksi 0 voucher 
-Jangan khawatir karena voucher sudah pasti muncul.
-Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file `data.txt`
